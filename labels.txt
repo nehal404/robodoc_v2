@@ -1,0 +1,6 @@
+0 First Degree Burn
+1 Second Degree Burn
+2 Third Degree Burn
+3 Lacerations
+4 Skin Ulcer Wound
+5 No Wound/Healthy Skin

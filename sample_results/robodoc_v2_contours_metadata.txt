@@ -1,0 +1,9 @@
+RoboDoc v2 - Contour Analysis Metadata
+=====================================
+
+AI Diagnosis: 3 Lacerations
+Confidence: 99.98%
+Contour Count: 2
+Detection Threshold: 51
+Line Density: 20
+Original Image Dimensions: (567, 1280, 3)
