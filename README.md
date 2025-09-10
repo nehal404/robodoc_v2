@@ -89,7 +89,7 @@ robodoc-v2/
 
 1. **Clone/Download the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/nehal404/robodoc_v2
 cd robodoc-v2
 ```
 
