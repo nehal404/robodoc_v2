@@ -16,6 +16,10 @@
 **RoboDoc v2** represents a significant advancement in the RoboDoc project series, introducing AI-powered injury classification with professional medical interface design and comprehensive analysis capabilities.
 
 <div align="center">
+  <img src="sample_results/sample_result_1.png" alt="sample_result" height="160" style="margin: 0 20px;">
+</div>
+
+<div align="center">
   <img src="demo_video.gif" alt="RoboDoc v2 Demo" width="700" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <br><br>
   <em>RoboDoc v2 demonstration showing AI-powered injury classification workflow</em>
