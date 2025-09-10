@@ -42,7 +42,7 @@ Prototyping Lab
 
 RoboDoc v2 introduces AI-powered injury classification capabilities with a professional medical interface. The system combines advanced computer vision techniques with deep learning models to provide accurate injury diagnosis and detailed analysis reports suitable for clinical environments.
 
-### Revolutionary Features
+### Features
 - **AI-Powered Classification**: TensorFlow/Keras model for accurate injury diagnosis
 - **Professional Medical Interface**: Clinical-grade GUI designed for healthcare environments
 - **Comprehensive Analysis Pipeline**: Computer vision + AI classification in unified workflow
@@ -106,7 +106,7 @@ Ensure `keras_model.h5` and `labels.txt` are present in the root directory.
 python robodoc.py
 ```
 
-## 🖥️ Professional Interface
+## 🖥️ Interface
 
 ### Four-Step Analysis Workflow
 
@@ -130,44 +130,12 @@ python robodoc.py
 - **Save Analysis**: Export annotated results with AI diagnosis
 - **Export Contours**: Save isolated contours with metadata
 
-### Advanced Display Features
-- **Split-Panel Layout**: Controls on left, results and AI analysis on right
-- **Three-Panel Results**: Original | Contoured | Processed visualization
-- **AI Classification Display**: Real-time prediction with confidence scoring
-- **Color-Coded Confidence**: Visual indicators for diagnostic reliability
-- **Built-in Classification Guide**: Reference for all injury categories
-
 ## 📊 Model Performance
 
 ### Confidence Scoring
 - **High Confidence (≥80%)**: Green indicators - Reliable for clinical reference
 - **Medium Confidence (60-79%)**: Orange indicators - Consider additional evaluation  
 - **Low Confidence (<60%)**: Red indicators - Manual verification recommended
-
-## 🏥 Clinical Applications
-
-### Primary Use Cases
-- **Emergency Room Assessment**: Rapid injury classification for triage
-- **Burn Unit Evaluation**: Automated burn degree assessment
-- **Wound Care Documentation**: Objective injury documentation and monitoring
-- **Telemedicine Support**: Remote injury evaluation capabilities
-- **Medical Training**: Educational tool for injury identification
-
-### Research Applications
-- **Clinical Studies**: Objective measurement for treatment efficacy research
-- **Dataset Creation**: Standardized injury documentation and labeling
-- **Algorithm Validation**: Real-world testing environment for medical AI
-- **Quality Assurance**: Consistent analysis standards across institutions
-
-## 📋 Usage Instructions
-
-### Basic Workflow
-1. **Launch Application**: Run `python robodoc.py`
-2. **Load Image**: Click "Upload Injury Image" and select medical image
-3. **Select Control**: Click "Select Control Region" and crop healthy tissue area
-4. **Adjust Parameters**: Fine-tune sensitivity and pattern density using sliders
-5. **Analyze**: Click "Analyze & Classify Injury" for comprehensive analysis
-6. **Export Results**: Save annotated analysis and/or isolated contours
 
 ## 🆕 Version 2 Enhancements
 
@@ -178,15 +146,6 @@ python robodoc.py
 - **Advanced Export**: Annotated results with AI diagnosis overlay
 - **Metadata System**: Comprehensive analysis documentation
 - **Confidence Scoring**: Reliability assessment for clinical use
-
-
-## 📊 Validation & Testing
-
-### Test Dataset
-The `test_images/` directory contains validated test cases:
-- **test image 1.png**: First degree burn case
-- **test image 3.jpeg**: Laceration example  
-- **test image 4.jpeg**: Healthy skin control
 
 ## 📄 File Specifications
 
