@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Version-2%2F7-brightgreen.svg" alt="Version">
 </div>
 
-**RoboDoc v2** represents a significant advancement in the RoboDoc project series, introducing AI-powered injury classification with professional medical interface design and comprehensive analysis capabilities.
+**RoboDoc v2** represents a significant advancement in the [RoboDoc project series](https://github.com/nehal404/robodoc), introducing AI-powered injury classification with professional medical interface design and comprehensive analysis capabilities.
 
 <div align="center">
   <img src="sample_results/sample_result_1.png" alt="sample_result" height="160" style="margin: 0 20px;">
@@ -161,7 +161,7 @@ python robodoc.py
 
 ## 🔄 Integration with RoboDoc Series
 
-This is **Version 2 of 7** in the complete RoboDoc medical imaging project:
+This is **Version 2 of 7** in the [complete RoboDoc](https://github.com/nehal404/robodoc) medical imaging project:
 - ✅ **v1** - Static Image Segmentation & Analysis
 - ✅ **v2** - AI-Powered Classification & Professional Interface *(Current)*
 
